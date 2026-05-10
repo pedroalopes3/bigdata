@@ -1,0 +1,39 @@
+fazer a corrspondencia entre o speech rate para cada instante e as palavras ditas -> objetivo chegar as palavras mais ditas por cada pessoa e tentar ver palavras mais associadas a fazer a corrspondencia entre o speech rate para cada instante e as palavras ditas -> objetivo chegar as palavras mais ditas por cada pessoa e tentar ver palavras mais associadas
+
+TEMAS: 
+* Establilidade Politica
+* SNS/Saude
+* Habitaçao
+* Immigraçao
+* Macroeconomia
+* Defesa
+* Juventude e a sua retençao
+* Justiça
+* Crise ambiental
+
+Temas: Catch words
+* Establilidade Politica
+* SNS/Saude
+* Habitaçao
+* Immigraçao:
+* Macroeconomia: Macroeconomia, economia
+* Defesa: Defesa, armas, armamento, forças armadas, marinha, exercito, força aerea, guerra
+* Juventude e a sua retençao: Jovens, juventude
+* Justiça: Justiça
+* Crise ambiental: Ambiente
+
+
+
+
+
+Temas: Catch words
+
+* Estabilidade Politica: Estabilidade, magistratura de influência, dissolução, parlamento, moderação, governabilidade, diálogo, crise política, compromisso  
+* SNS/Saúde: SNS, médicos de família, urgências, listas de espera, setor privado, saúde, profissionais de saúde, hospitais  
+* Habitação: Habitação, rendas, especulação imobiliária, oferta, construção, crédito habitação, crise habitacional, licenciamento, impostos, poder de compra
+* Imigração e Identidade: imigração, nacionalidade, fronteiras, integração, demografia, segurança, regularização, xenofobia, multiculturalismo
+* Macroeconomia: Macroeconomia, economia, inflação, custo de vida, salários, impostos, crescimento económico, concertação social, poder de compra, pacote laboral
+* Defesa : Defesa, forças armadas, investimento, NATO, guerra, recrutamento militar, armamento, geoestratégia, soberania, segurança nacional, marinha, exercito, força aerea  
+* Juventude (e a sua retenção): Jovens, juventude, fuga de cérebros, emigração jovem, oportunidades, salários de entrada, precariedade, futuro seguro, retenção de talento, elevador social  
+* Justiça/corrupção: Justiça, corrupção, impunidade, transparência, tribunais, Ministério Público, Tribunal Constitucional, reforma da justiça, morosidade, escrutínio
+* Crise ambiental: Ambiente, alterações climáticas, tempestade Kristin, incêndios, proteção civil, estado de calamidade, sustentabilidade, transição climática, apoios estatais, ecologia

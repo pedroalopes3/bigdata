@@ -1,0 +1,6 @@
+# images
+*.jpg
+*.jpeg
+
+# audio files
+*.wav
