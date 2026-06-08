@@ -4,3 +4,6 @@
 
 # audio files
 *.wav
+
+# video files
+*.mp4

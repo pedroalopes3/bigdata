@@ -1,31 +1,3 @@
-fazer a corrspondencia entre o speech rate para cada instante e as palavras ditas -> objetivo chegar as palavras mais ditas por cada pessoa e tentar ver palavras mais associadas a fazer a corrspondencia entre o speech rate para cada instante e as palavras ditas -> objetivo chegar as palavras mais ditas por cada pessoa e tentar ver palavras mais associadas
-
-TEMAS: 
-* Establilidade Politica
-* SNS/Saude
-* Habitaçao
-* Immigraçao
-* Macroeconomia
-* Defesa
-* Juventude e a sua retençao
-* Justiça
-* Crise ambiental
-
-Temas: Catch words
-* Establilidade Politica
-* SNS/Saude
-* Habitaçao
-* Immigraçao:
-* Macroeconomia: Macroeconomia, economia
-* Defesa: Defesa, armas, armamento, forças armadas, marinha, exercito, força aerea, guerra
-* Juventude e a sua retençao: Jovens, juventude
-* Justiça: Justiça
-* Crise ambiental: Ambiente
-
-
-
-
-
 Temas: Catch words
 
 * Estabilidade Politica: Estabilidade, magistratura de influência, dissolução, parlamento, moderação, governabilidade, diálogo, crise política, compromisso  
@@ -37,3 +9,11 @@ Temas: Catch words
 * Juventude (e a sua retenção): Jovens, juventude, fuga de cérebros, emigração jovem, oportunidades, salários de entrada, precariedade, futuro seguro, retenção de talento, elevador social  
 * Justiça/corrupção: Justiça, corrupção, impunidade, transparência, tribunais, Ministério Público, Tribunal Constitucional, reforma da justiça, morosidade, escrutínio
 * Crise ambiental: Ambiente, alterações climáticas, tempestade Kristin, incêndios, proteção civil, estado de calamidade, sustentabilidade, transição climática, apoios estatais, ecologia
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////7
+
+
+Melhorar wavelet analysis:
+* ver se da para relacionar cad palavra com um timestamp absuluto do debate/jornal com o speech rate e os sgemnets que ja existem
+* acount para os periodos de silencio
